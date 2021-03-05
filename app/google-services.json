@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "195016510584",
+    "project_id": "stone-heading-306402",
+    "storage_bucket": "stone-heading-306402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195016510584:android:92a13b3607ab7aceac318d",
+        "android_client_info": {
+          "package_name": "com.example.car_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195016510584-g6cssg7fl476hcd4oj7nn6h7vqv495lp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.car_app",
+            "certificate_hash": "5b67c65cf04666a646f40fe8ca5895ff74c5da41"
+          }
+        },
+        {
+          "client_id": "195016510584-frbdmulbm7jdsfrkk7ggs00n51tdnc5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHITqDHQ8bZITPdJF2OQXAj2eEa8M0H0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195016510584-frbdmulbm7jdsfrkk7ggs00n51tdnc5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
